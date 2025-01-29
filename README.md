@@ -68,19 +68,13 @@ cd ../frontend && npm start
 
 ## 🌟 Roadmap to Wonder
 
-```mermaid
-gantt
-    title StoryForge Development Timeline
-    dateFormat  YYYY-MM-DD
-    section Current
-    Phase 1: Core Spark      :done, p1, 2024-01-01, 30d
-    section Next
-    Phase 2: Canvas Magic    :active, p2, 2024-02-01, 45d
-    Phase 3: AI Integration  :p3, 2024-03-15, 60d
-    section Future
-    Quantum Storytelling     :p4, 2024-05-01, 90d
-    Neural Interface         :p5, 2024-08-01, 120d
-```
+| Phase               | Features                     | Start Date   | Duration | Status      |
+|---------------------|------------------------------|--------------|----------|-------------|
+| **Phase 1**         | Core Spark                   | 2024-01-01   | 30 days  | ✅ Complete |
+| **Phase 2**         | Canvas Magic                 | 2024-02-01   | 45 days  | 🚧 Active   |
+| **Phase 3**         | AI Integration               | 2024-03-15   | 60 days  | ⏳ Planned  |
+| **Quantum Tales**   | Cross-Reality Storytelling   | 2024-05-01   | 90 days  | 🌠 Future   |
+| **Neural Interface**| Brain-Computer Interaction   | 2024-08-01   | 120 days | 🌌 Future   |
 
 ## 🧙♀️ Contributing
 
