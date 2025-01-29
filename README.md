@@ -73,13 +73,13 @@ gantt
     title StoryForge Development Timeline
     dateFormat  YYYY-MM-DD
     section Current
-    Phase 1: Core Spark      :done, 2024-01-01, 30d
+    Phase 1: Core Spark      :done, p1, 2024-01-01, 30d
     section Next
-    Phase 2: Canvas Magic    :active, 2024-02-01, 45d
-    Phase 3: AI Integration  :2024-03-15, 60d
+    Phase 2: Canvas Magic    :active, p2, 2024-02-01, 45d
+    Phase 3: AI Integration  :p3, 2024-03-15, 60d
     section Future
-    Quantum Storytelling     :2024-05-01, 90d
-    Neural Interface         :2024-08-01, 120d
+    Quantum Storytelling     :p4, 2024-05-01, 90d
+    Neural Interface         :p5, 2024-08-01, 120d
 ```
 
 ## 🧙♀️ Contributing
